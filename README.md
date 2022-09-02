@@ -60,6 +60,17 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/188123340-520d3449-cc50-4af3-aa0a-01d44ae4d7b8.png)
 
+Далее смотрим, что у нас контекст появился в конфиге:
+
+![image](https://user-images.githubusercontent.com/92969676/188123756-8a3b23a5-f2f5-4094-8eec-2d96dcea35aa.png)
+
+Переключаемся на него:
+
+![image](https://user-images.githubusercontent.com/92969676/188123808-1c8075bb-5079-434c-b05e-885de897a90e.png)
+
+Но подключение не получилось, т.к. выданный сертификат был выдан на другие ip адреса: 
+
+![image](https://user-images.githubusercontent.com/92969676/188124016-8c469509-b5ba-485f-9b1b-04bdfd2ee57d.png)
 
 
 
