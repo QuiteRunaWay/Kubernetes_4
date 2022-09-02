@@ -29,4 +29,9 @@
 
 Создаем папку с копией конфигурации, которую в дальнейшем будем использовать (cp -rfp inventory/sample inventory/mycluster).
 
+Далее создаем host.yaml с перечнем наших нод, и редактируем inventory файл таким образом, как сказано в задании, т.е. etcd должно быть на master ноде:
+
+![image](https://user-images.githubusercontent.com/92969676/188114936-83666021-4f52-4cea-a732-4ea336ab7aeb.png)
+
+
 
