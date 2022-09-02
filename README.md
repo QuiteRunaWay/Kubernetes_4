@@ -33,5 +33,12 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/188114936-83666021-4f52-4cea-a732-4ea336ab7aeb.png)
 
+В качестве CRI у нас conteinerd, это по умолчанию уже установлено для конфигурации кластера: 
+
+![image](https://user-images.githubusercontent.com/92969676/188117124-b7dca833-8df9-499a-8750-b2246677e1d9.png)
+
+Далее запускаем установку кластера: 
+
+![image](https://user-images.githubusercontent.com/92969676/188116269-a5a66ce2-d5e1-45bc-bd55-624203f56f47.png)
 
 
