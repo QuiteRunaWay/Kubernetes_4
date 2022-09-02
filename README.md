@@ -27,4 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/188088882-da968179-6dc7-4d47-89ba-74a430890580.png)
 
+Создаем папку с копией конфигурации, которую в дальнейшем будем использовать (cp -rfp inventory/sample inventory/mycluster).
+
 
